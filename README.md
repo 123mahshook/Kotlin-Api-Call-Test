@@ -8,4 +8,4 @@ Sample Api: https://reqres.in/api/users?page=2
 - Swipe Refresh
 - Data class
 - Retrofit
-= Glide
+- Glide
